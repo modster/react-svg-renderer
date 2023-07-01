@@ -1,2 +1,2 @@
-# react-svg-renerer
+# react-svg-renderer
 Created with CodeSandbox
